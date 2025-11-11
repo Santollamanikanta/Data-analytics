@@ -1,0 +1,7 @@
+{
+  "name": "Adaptive AI Business Analytics Platform",
+  "description": "An AI-driven analytics platform that unifies business data to provide real-time, personalized insights and recommendations for small businesses.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
